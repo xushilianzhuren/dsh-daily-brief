@@ -1,0 +1,6 @@
+- insert:
+    - id: daily-brief
+      name: 'dsh-daily-brief'
+      config:
+        enabled: true
+        tool: true
